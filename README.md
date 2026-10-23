@@ -1,6 +1,6 @@
 # Workshop Content Reviewer (Kiro Power)
 
-A Kiro power for reviewing AWS Workshop Studio lab content for any service or topic before it is merged. It checks structure, front matter, Workshop Studio directives, code blocks, images, links, prerequisites, security, content quality, cleanup, `contentspec.yaml`, and AWS Well-Architected alignment, then writes a `Review.md` report.
+A Kiro power for reviewing AWS Workshop content for any service or topic before it is merged. It checks structure, front matter, Workshop directives, code blocks, images, links, prerequisites, security, content quality, cleanup, `contentspec.yaml`, and AWS Well-Architected alignment, then writes a `Review.md` report.
 
 ## Contents
 
